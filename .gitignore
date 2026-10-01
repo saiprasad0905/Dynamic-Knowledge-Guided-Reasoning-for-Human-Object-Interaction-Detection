@@ -3,3 +3,19 @@ data/**
 params/**
 logs/**
 !.gitkeep
+
+# Model weights
+*.pt
+*.pth
+
+# Captured/test images
+capture_*.jpg
+capture_*.jpeg
+capture_*.png
+
+# Generated evaluation outputs
+evaluation_chunks/
+structured_hoi/
+
+# Generated/intermediate files
+*.tmp
