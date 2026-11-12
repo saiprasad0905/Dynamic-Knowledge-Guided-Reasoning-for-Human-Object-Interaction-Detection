@@ -1,0 +1,587 @@
+{
+  "1": {
+    "hoi_id": 539,
+    "object": "tie",
+    "verb": "adjust"
+  },
+  "2": {
+    "hoi_id": 369,
+    "object": "kite",
+    "verb": "assemble"
+  },
+  "3": {
+    "hoi_id": 337,
+    "object": "frisbee",
+    "verb": "block"
+  },
+  "4": {
+    "hoi_id": 265,
+    "object": "cake",
+    "verb": "blow"
+  },
+  "5": {
+    "hoi_id": 55,
+    "object": "bus",
+    "verb": "board"
+  },
+  "6": {
+    "hoi_id": 225,
+    "object": "baseball_bat",
+    "verb": "break"
+  },
+  "7": {
+    "hoi_id": 559,
+    "object": "toothbrush",
+    "verb": "brush_with"
+  },
+  "8": {
+    "hoi_id": 215,
+    "object": "banana",
+    "verb": "buy"
+  },
+  "9": {
+    "hoi_id": 209,
+    "object": "backpack",
+    "verb": "carry"
+  },
+  "10": {
+    "hoi_id": 338,
+    "object": "frisbee",
+    "verb": "catch"
+  },
+  "11": {
+    "hoi_id": 25,
+    "object": "bird",
+    "verb": "chase"
+  },
+  "12": {
+    "hoi_id": 415,
+    "object": "parking_meter",
+    "verb": "check"
+  },
+  "13": {
+    "hoi_id": 408,
+    "object": "oven",
+    "verb": "clean"
+  },
+  "14": {
+    "hoi_id": 394,
+    "object": "mouse",
+    "verb": "control"
+  },
+  "15": {
+    "hoi_id": 358,
+    "object": "hot_dog",
+    "verb": "cook"
+  },
+  "16": {
+    "hoi_id": 276,
+    "object": "carrot",
+    "verb": "cut"
+  },
+  "17": {
+    "hoi_id": 377,
+    "object": "knife",
+    "verb": "cut_with"
+  },
+  "18": {
+    "hoi_id": 568,
+    "object": "truck",
+    "verb": "direct"
+  },
+  "19": {
+    "hoi_id": 508,
+    "object": "suitcase",
+    "verb": "drag"
+  },
+  "20": {
+    "hoi_id": 492,
+    "object": "sports_ball",
+    "verb": "dribble"
+  },
+  "21": {
+    "hoi_id": 48,
+    "object": "bottle",
+    "verb": "drink_with"
+  },
+  "22": {
+    "hoi_id": 57,
+    "object": "bus",
+    "verb": "drive"
+  },
+  "23": {
+    "hoi_id": 77,
+    "object": "cat",
+    "verb": "dry"
+  },
+  "24": {
+    "hoi_id": 201,
+    "object": "apple",
+    "verb": "eat"
+  },
+  "25": {
+    "hoi_id": 109,
+    "object": "dining_table",
+    "verb": "eat_at"
+  },
+  "26": {
+    "hoi_id": 3,
+    "object": "airplane",
+    "verb": "exit"
+  },
+  "27": {
+    "hoi_id": 97,
+    "object": "cow",
+    "verb": "feed"
+  },
+  "28": {
+    "hoi_id": 589,
+    "object": "wine_glass",
+    "verb": "fill"
+  },
+  "29": {
+    "hoi_id": 455,
+    "object": "skateboard",
+    "verb": "flip"
+  },
+  "30": {
+    "hoi_id": 552,
+    "object": "toilet",
+    "verb": "flush"
+  },
+  "31": {
+    "hoi_id": 371,
+    "object": "kite",
+    "verb": "fly"
+  },
+  "32": {
+    "hoi_id": 162,
+    "object": "person",
+    "verb": "greet"
+  },
+  "33": {
+    "hoi_id": 477,
+    "object": "snowboard",
+    "verb": "grind"
+  },
+  "34": {
+    "hoi_id": 131,
+    "object": "horse",
+    "verb": "groom"
+  },
+  "35": {
+    "hoi_id": 98,
+    "object": "cow",
+    "verb": "herd"
+  },
+  "36": {
+    "hoi_id": 493,
+    "object": "sports_ball",
+    "verb": "hit"
+  },
+  "37": {
+    "hoi_id": 49,
+    "object": "bottle",
+    "verb": "hold"
+  },
+  "38": {
+    "hoi_id": 319,
+    "object": "elephant",
+    "verb": "hop_on"
+  },
+  "39": {
+    "hoi_id": 69,
+    "object": "car",
+    "verb": "hose"
+  },
+  "40": {
+    "hoi_id": 164,
+    "object": "person",
+    "verb": "hug"
+  },
+  "41": {
+    "hoi_id": 237,
+    "object": "bear",
+    "verb": "hunt"
+  },
+  "42": {
+    "hoi_id": 148,
+    "object": "motorcycle",
+    "verb": "inspect"
+  },
+  "43": {
+    "hoi_id": 563,
+    "object": "traffic_light",
+    "verb": "install"
+  },
+  "44": {
+    "hoi_id": 468,
+    "object": "skis",
+    "verb": "jump"
+  },
+  "45": {
+    "hoi_id": 496,
+    "object": "sports_ball",
+    "verb": "kick"
+  },
+  "46": {
+    "hoi_id": 165,
+    "object": "person",
+    "verb": "kiss"
+  },
+  "47": {
+    "hoi_id": 102,
+    "object": "cow",
+    "verb": "lasso"
+  },
+  "48": {
+    "hoi_id": 37,
+    "object": "boat",
+    "verb": "launch"
+  },
+  "49": {
+    "hoi_id": 169,
+    "object": "person",
+    "verb": "lick"
+  },
+  "50": {
+    "hoi_id": 522,
+    "object": "surfboard",
+    "verb": "lie_on"
+  },
+  "51": {
+    "hoi_id": 332,
+    "object": "fork",
+    "verb": "lift"
+  },
+  "52": {
+    "hoi_id": 270,
+    "object": "cake",
+    "verb": "light"
+  },
+  "53": {
+    "hoi_id": 571,
+    "object": "truck",
+    "verb": "load"
+  },
+  "54": {
+    "hoi_id": 579,
+    "object": "umbrella",
+    "verb": "lose"
+  },
+  "55": {
+    "hoi_id": 310,
+    "object": "donut",
+    "verb": "make"
+  },
+  "56": {
+    "hoi_id": 103,
+    "object": "cow",
+    "verb": "milk"
+  },
+  "57": {
+    "hoi_id": 432,
+    "object": "refrigerator",
+    "verb": "move"
+  },
+  "58": {
+    "hoi_id": 224,
+    "object": "banana",
+    "verb": "no_interaction"
+  },
+  "59": {
+    "hoi_id": 433,
+    "object": "refrigerator",
+    "verb": "open"
+  },
+  "60": {
+    "hoi_id": 350,
+    "object": "hair_drier",
+    "verb": "operate"
+  },
+  "61": {
+    "hoi_id": 513,
+    "object": "suitcase",
+    "verb": "pack"
+  },
+  "62": {
+    "hoi_id": 329,
+    "object": "fire_hydrant",
+    "verb": "paint"
+  },
+  "63": {
+    "hoi_id": 73,
+    "object": "car",
+    "verb": "park"
+  },
+  "64": {
+    "hoi_id": 416,
+    "object": "parking_meter",
+    "verb": "pay"
+  },
+  "65": {
+    "hoi_id": 279,
+    "object": "carrot",
+    "verb": "peel"
+  },
+  "66": {
+    "hoi_id": 104,
+    "object": "cow",
+    "verb": "pet"
+  },
+  "67": {
+    "hoi_id": 205,
+    "object": "apple",
+    "verb": "pick"
+  },
+  "68": {
+    "hoi_id": 272,
+    "object": "cake",
+    "verb": "pick_up"
+  },
+  "69": {
+    "hoi_id": 436,
+    "object": "remote",
+    "verb": "point"
+  },
+  "70": {
+    "hoi_id": 300,
+    "object": "cup",
+    "verb": "pour"
+  },
+  "71": {
+    "hoi_id": 375,
+    "object": "kite",
+    "verb": "pull"
+  },
+  "72": {
+    "hoi_id": 17,
+    "object": "bicycle",
+    "verb": "push"
+  },
+  "73": {
+    "hoi_id": 153,
+    "object": "motorcycle",
+    "verb": "race"
+  },
+  "74": {
+    "hoi_id": 251,
+    "object": "book",
+    "verb": "read"
+  },
+  "75": {
+    "hoi_id": 29,
+    "object": "bird",
+    "verb": "release"
+  },
+  "76": {
+    "hoi_id": 38,
+    "object": "boat",
+    "verb": "repair"
+  },
+  "77": {
+    "hoi_id": 154,
+    "object": "motorcycle",
+    "verb": "ride"
+  },
+  "78": {
+    "hoi_id": 40,
+    "object": "boat",
+    "verb": "row"
+  },
+  "79": {
+    "hoi_id": 141,
+    "object": "horse",
+    "verb": "run"
+  },
+  "80": {
+    "hoi_id": 41,
+    "object": "boat",
+    "verb": "sail"
+  },
+  "81": {
+    "hoi_id": 83,
+    "object": "cat",
+    "verb": "scratch"
+  },
+  "82": {
+    "hoi_id": 498,
+    "object": "sports_ball",
+    "verb": "serve"
+  },
+  "83": {
+    "hoi_id": 582,
+    "object": "umbrella",
+    "verb": "set"
+  },
+  "84": {
+    "hoi_id": 183,
+    "object": "sheep",
+    "verb": "shear"
+  },
+  "85": {
+    "hoi_id": 499,
+    "object": "sports_ball",
+    "verb": "sign"
+  },
+  "86": {
+    "hoi_id": 301,
+    "object": "cup",
+    "verb": "sip"
+  },
+  "87": {
+    "hoi_id": 110,
+    "object": "dining_table",
+    "verb": "sit_at"
+  },
+  "88": {
+    "hoi_id": 155,
+    "object": "motorcycle",
+    "verb": "sit_on"
+  },
+  "89": {
+    "hoi_id": 427,
+    "object": "pizza",
+    "verb": "slide"
+  },
+  "90": {
+    "hoi_id": 302,
+    "object": "cup",
+    "verb": "smell"
+  },
+  "91": {
+    "hoi_id": 340,
+    "object": "frisbee",
+    "verb": "spin"
+  },
+  "92": {
+    "hoi_id": 405,
+    "object": "orange",
+    "verb": "squeeze"
+  },
+  "93": {
+    "hoi_id": 166,
+    "object": "person",
+    "verb": "stab"
+  },
+  "94": {
+    "hoi_id": 462,
+    "object": "skateboard",
+    "verb": "stand_on"
+  },
+  "95": {
+    "hoi_id": 583,
+    "object": "umbrella",
+    "verb": "stand_under"
+  },
+  "96": {
+    "hoi_id": 379,
+    "object": "knife",
+    "verb": "stick"
+  },
+  "97": {
+    "hoi_id": 254,
+    "object": "bowl",
+    "verb": "stir"
+  },
+  "98": {
+    "hoi_id": 566,
+    "object": "traffic_light",
+    "verb": "stop_at"
+  },
+  "99": {
+    "hoi_id": 156,
+    "object": "motorcycle",
+    "verb": "straddle"
+  },
+  "100": {
+    "hoi_id": 229,
+    "object": "baseball_bat",
+    "verb": "swing"
+  },
+  "101": {
+    "hoi_id": 167,
+    "object": "person",
+    "verb": "tag"
+  },
+  "102": {
+    "hoi_id": 288,
+    "object": "cell_phone",
+    "verb": "talk_on"
+  },
+  "103": {
+    "hoi_id": 168,
+    "object": "person",
+    "verb": "teach"
+  },
+  "104": {
+    "hoi_id": 289,
+    "object": "cell_phone",
+    "verb": "text_on"
+  },
+  "105": {
+    "hoi_id": 341,
+    "object": "frisbee",
+    "verb": "throw"
+  },
+  "106": {
+    "hoi_id": 544,
+    "object": "tie",
+    "verb": "tie"
+  },
+  "107": {
+    "hoi_id": 592,
+    "object": "wine_glass",
+    "verb": "toast"
+  },
+  "108": {
+    "hoi_id": 125,
+    "object": "dog",
+    "verb": "train"
+  },
+  "109": {
+    "hoi_id": 157,
+    "object": "motorcycle",
+    "verb": "turn"
+  },
+  "110": {
+    "hoi_id": 367,
+    "object": "keyboard",
+    "verb": "type_on"
+  },
+  "111": {
+    "hoi_id": 22,
+    "object": "bicycle",
+    "verb": "walk"
+  },
+  "112": {
+    "hoi_id": 75,
+    "object": "car",
+    "verb": "wash"
+  },
+  "113": {
+    "hoi_id": 197,
+    "object": "tv",
+    "verb": "watch"
+  },
+  "114": {
+    "hoi_id": 64,
+    "object": "bus",
+    "verb": "wave"
+  },
+  "115": {
+    "hoi_id": 213,
+    "object": "backpack",
+    "verb": "wear"
+  },
+  "116": {
+    "hoi_id": 381,
+    "object": "knife",
+    "verb": "wield"
+  },
+  "117": {
+    "hoi_id": 515,
+    "object": "suitcase",
+    "verb": "zip"
+  }
+}

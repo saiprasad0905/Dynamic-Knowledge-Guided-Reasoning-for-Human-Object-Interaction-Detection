@@ -1,0 +1,14 @@
+{
+  "400-image dataset": {
+    "validation_images": 100,
+    "validation_candidates": 10000,
+    "positive_candidates": 2666,
+    "qpic_candidate_ap": 0.3464479095848181
+  },
+  "1900-image dataset": {
+    "validation_images": 100,
+    "validation_candidates": 10000,
+    "positive_candidates": 2666,
+    "qpic_candidate_ap": 0.3464479095848181
+  }
+}

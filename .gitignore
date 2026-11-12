@@ -1,21 +1,51 @@
-**/__pycache__/**
-data/**
-params/**
-logs/**
-!.gitkeep
+﻿# Python cache and virtual environments
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
 
-# Model weights
-*.pt
+# Dataset and large pretrained model weights
+data/
+params/*
+!params/.gitkeep
 *.pth
 
-# Captured/test images
+# Unrelated YOLO weights
+yolo*.pt
+yolo*.pth
+
+# Generated evaluation chunks and processed datasets
+evaluation_chunks/
+training_evaluation_chunks/
+training_evaluation_chunks_2000/
+structured_hoi/
+training_structured_hoi/
+training_structured_hoi_2000/
+training_labeled_hoi/
+training_labeled_hoi_2000/
+hybrid_graph_dataset/
+training_hybrid_graph_dataset/
+training_hybrid_graph_dataset_2000/
+
+# Temporary evaluation and diagnostic outputs
+gnn_eval_smoke/
+gnn_eval_smoke_10/
+gnn_full_evaluation_final/
+threshold_test_*/
+predictions/
+predictions_*/
+*_visualization.jpg
+
+# Temporary files and logs
+*.tmp
+*.log
 capture_*.jpg
 capture_*.jpeg
 capture_*.png
+image_paths_block.txt
 
-# Generated evaluation outputs
-evaluation_chunks/
-structured_hoi/
-
-# Generated/intermediate files
-*.tmp
+# Additional generated experiments and temporary checkpoints
+same_pair_blending*_experiment/
+training_evaluation_chunks_*/
+threshold_test_*.pt

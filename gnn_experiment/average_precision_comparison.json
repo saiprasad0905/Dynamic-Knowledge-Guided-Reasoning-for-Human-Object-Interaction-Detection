@@ -1,0 +1,11 @@
+{
+  "checkpoint_epoch": 8,
+  "validation_images": 100,
+  "validation_candidates": 10000,
+  "positive_candidates": 2183,
+  "negative_candidates": 7817,
+  "qpic_candidate_average_precision": 0.30767225292821615,
+  "gnn_candidate_average_precision": 0.4088018871394309,
+  "absolute_difference": 0.10112963421121474,
+  "note": "Candidate-level AP on the validation subset; not official HICO-DET mAP."
+}
